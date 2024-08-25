@@ -1,0 +1,7 @@
+4.9 Nêu một số rủi ro, khó khăn có thể gặp phải trong quá trình thực hiện đề tài / dự án.
+- Nguồn nhân lực thực hiện dự án còn hạn chế, thời gian thực hiện dự án ngắn, dẫn đến mỗi thành viên đảm nhận số lượng công việc nhiều hơn.
+- Về chuyên môn kỹ thuật: một vài thành viên mới làm quan với WPF, nên tốn thời gian để hướng dẫn lại. Việc quản lý source code qua github còn mới mẻ đối với một vài thành viên, dẫn đến việc sử dụng github chưa hiệu quả, mất mác code còn diễn ra, gây khó khăn cho việc làm việc theo team.
+- Về quản lý: do nhiều môn học cùng làm đồ án, nên bị chi phối thời gian, chưa có kinh nghiệm quản lý một dự án phần mềm thực tế.
+- Phần mềm phát triển dựa trên yêu cầu là từ thể lệ cuộc thi Mastering IT. Do thể lệ thay đổi liên tục, dễ đến phải thiết kế và chỉnh sửa code của phần mềm nhiều lần.
+- Chưa xác định rõ độ ưu tiên giữa các công việc cần thực hiện, chưa phân công rõ ràng và cụ thể công việc cho từng người do chưa phát hiện hết các công việc cần phải làm ngay từ lúc lập ké hoạch.
+- Lý do khách quan: tình hình dịch Covid-19 diễn biến phức tạp, mọi hoạt động bị trì trệ hoặc phải chuyển qua hình thức online. Không gặp mặt trực tiếp nên khi phát sinh vấn đề, chưa thể kịp thời giải quyết tốt. Bị chi phối vào tình trạng mạng Internet và đường truyền.

@@ -1,0 +1,47 @@
+$(document).ready(function(){
+	if($(".relatednews ul").children().length == 0){
+		$(".relatednews").hide();
+	}
+	
+	$('.success-msg, .error-msg, .info-msg').each(function(){
+		if($(this).text().trim() == ''){
+			$(this).css('display', 'none');
+		}
+	});
+	
+	if(typeof module != 'undefined'){
+		$('#nav-main-list li').each(function(index, elem){
+			var rel = $(elem).children('a').attr('rel');
+			if(rel == module){
+				$('#nav-main-list li').removeClass('select');
+				$(elem).addClass('select');
+				return false;
+			}
+		});
+	}
+	$("#dialog_question").dialog({
+		autoOpen:false,
+		modal:true,
+		minWidth:360,
+		dialogClass:'ui-dialog-question',
+		buttons: [ { text: "OK", click: function() {
+			window.location.assign("/ask/question");
+		} } ]
+	});
+	
+	$('body').append('<div id="ajax-loading-modal" style="display:none;"><img src="/images/ajax-loader.gif"></div>');
+});
+
+function ask_question(){
+	$("#dialog_question").dialog({
+		autoOpen:true
+	});
+	return false;
+}
+
+function show_processing(){
+	$('#ajax-loading-modal').show();
+}
+function hide_processing(){
+	$('#ajax-loading-modal').hide();
+}

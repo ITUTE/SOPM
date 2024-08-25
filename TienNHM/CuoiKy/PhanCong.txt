@@ -1,0 +1,33 @@
+PM:
+
+1. requirement:
+- Thêm document: link github - Tiến
+
+2. charter:
+- thêm cách tiếp cận dự án
+
+3. scope:
+- thêm lý giải dự án - Tín
+
+Chia chương:
+Chương 1: Yêu cầu dự án: 
+           1. Project Requirements Document
+
+Chương 2: Chuẩn bị: 
+           2. Project Charter 
+           3. Scope Statement
+           4. WBS
+
+Chương 3: Qúa trình thực hiện
+           5. Thứ tự công việc
+           6. Sơ đồ PERT
+           7. Phân công
+
+Chương 4: Đánh giá chất lượng
+           8. Kế hoạch kiểm thử
+           9. Rủi ro, khó khăn
+
+Chương 5: Kết luận
+           10. Kinh nghiệm rút ra
+
+FORMAT LẠI BÁO CÁO - Vy, Quân

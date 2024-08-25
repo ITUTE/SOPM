@@ -1,0 +1,5 @@
+Kết luận
+- Những điểm đạt được:
+	Qua quá trình thực hiện đồ án, nhóm đã thu gặt được một số kinh nghiệm như: việc phân chia nhiệm vụ thực hiện từng công việc phải rõ ràng, cụ thể; phải cố gắng xác định đầy đủ những rủi ro có thể gặp phải trong suốt quá trình phát triển một dự án phần mềm; tăng cường áp dụng các phần mềm hỗ trợ quản lý, trao đổi thông tin nhằm giúp đảm bảo việc theo dõi tiến độ luôn được thông suốt, nhanh chóng, kịp thời và chính xác.
+- Hướng phát triển dự án:
+	Duy trì cập nhật phần mềm, quản lý source code thông qua Github, tăng cường bảo mật ngân hàng câu hỏi và gia tăng số lượng câu hỏi.

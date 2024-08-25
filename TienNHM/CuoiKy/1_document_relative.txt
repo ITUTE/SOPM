@@ -1,0 +1,6 @@
+1. Requirements
+- Software code: https://github.com/ITUTE/MasteringIT_Application
+- Báo cáo khảo sát: https://github.com/ITUTE/MasteringIT_Application/wiki/Other-related-delivarables#báo-cáo-khảo--sát
+- Mockup: https://github.com/ITUTE/MasteringIT_Application/wiki/Other-related-delivarables#mockup
+- Final documents: https://github.com/ITUTE/MasteringIT_Application/wiki/
+- Link chi tiết cuộc thi: https://masteringit.github.io/

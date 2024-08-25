@@ -1,0 +1,14 @@
+== MASTERING IT APP ==
+
+- Tổng quan: WPF, SQL Server 2019, Visual studio 2019
+- App gồm 2 phiên bản: Dành cho BTC và dành cho các đội chơi.
+- Có 5 vòng thi, tương đương 5 Round trên App. Mỗi Round sẽ hiện thị đề thi của mỗi vòng thi tương ứng, tùy từng vòng thi sẽ hiển thị câu hỏi và cách để các đội chơi trả lời cho phù hợp:
+  + Khởi động: có tất cả 10 câu hỏi, hiển thị đồng thời trên App của BTC và của đội thi. Có thời gian đếm ngược cho các đội thi chọn câu trả lời trắc nghiệm. Phương án của mỗi đội thi chọn sẽ được lưu xuống CSDL, sau mỗi câu hỏi, App phía BTC sẽ load câu trả lời của các đội lên để show, đồng thời tự động chấm điểm dựa vào solution của câu hỏi.
+  + Kết nối: các đội thi sẽ được cung cấp các mảnh flowchart rời rạc và 1 bài toán cụ thể. Yêu cầu là sắp lại thành 1 flowchart đúng để giải bài toán. Các đội trong thời gian giới hạn, sẽ sắp xếp lại các mảnh flowchart. Hết thời gian, sẽ ko cho phép tiếp tục sắp xếp. Sau khi các đội sắp xếp xong, dữ liệu màn hình chứa flowchart của mỗi đội sẽ được lư vào CSDL. Sau đó, BTC sẽ load dữ liệu lên và chấm bằng tay, dùng APP của BTC để cập nhật điểm số.
+  + Tăng tốc: Màn hình mỗi đội chơi sẽ hiển thị yêu cầu và đoạn mã nhị phân, key giải. Trong thời gian giới hạn, các đội sẽ nhập đáp án mà mình tìm thấy và phần mềm. hết thời gian, dữ liệu sẽ lưu vào CSDL. App BTC load data để show lên màn hình, đồng thời tự động chấm điểm dựa trên solution trong CSDL.
+  + Lập trình tiếp sức: APp đội chơi sẽ hiển thị đề bài và 1 textbox để đội chơi nhập code. Sau thời gian giới hạn, sẽ lưu data xuống csdl. Sau đó, BTC sẽ load code lên và chấm bằng DevC++. 
+- Mỗi Round sẽ được hiển thị trên một form. Ngoài ra có 1 số form phụ trợ + 1 form quản lý điểm.
+- App chạy trên Laptop, đồng thời giao diện App sẽ được hiển thị trên màn hình hội trường.
+- Wifi hội trường hơi yếu.
+- Code: 3 người
+- Hệ điều hành: Win 10
